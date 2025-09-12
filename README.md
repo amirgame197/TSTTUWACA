@@ -9,7 +9,9 @@ Also the main bot running with this code has the best name ever.<br>
 <br>
 # Usage
 Free forever (i hope), no request limits (i also hope).<br>
-Add the bot to your chats or just use it directly, https://t.me/ExplosiveFartBot it is!
+Add the bot to your chats or just use it directly, https://t.me/ExplosiveFartBot it is!<br>
+<br>
+Additionally, the system got implemented in the state-of-the-art (yes im bragging) https://t.me/cuhybot project too.
 <br>
 <br>
 # Installation & Setup
